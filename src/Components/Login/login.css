@@ -1,0 +1,66 @@
+.loginBtn{
+    width: 300px;
+    height: 40px;
+    /* margin-left: 450px; */
+    margin: 0 auto;
+    margin-top: 30px;
+    background-color: #fff;
+    border-radius: 20px;
+    border: 1px solid gray;
+    font-size: 15px;
+    display: block;
+}
+.icon{
+    height: 25px;
+    margin-right: 10px;
+}
+.fbloginBtn{
+    width: 300px;
+    height: 40px;
+    /* margin-left: 450px; */
+    display: block;
+    margin: 0 auto;
+    background-color: #ffffff;
+    border-radius: 20px;
+    border: 1px solid gray;
+    font-size: 15px;
+    margin-top: 10px;
+}
+.loginArea{
+    border: 1px solid gray;
+    height: 400px;
+    width: 450px;
+    margin: 0 auto;
+    margin-top: 20px;
+    padding: 30px;
+}
+.textofcheckbox{
+    display: inline;
+}
+.passLink{
+    margin-left: 100px;
+    color: rgb(80, 206, 80);
+}
+.form-control{
+    border: none;
+}
+hr{
+    height: 0px;
+    margin-top: 5px;
+}
+.login{
+    margin: 0 auto;
+    display: block;
+    margin-top: 40px;
+    width: 300px;
+    height: 40px;
+    background-color: rgb(80, 206, 80);
+    border: none;
+    border-radius: 20px;
+}
+.loginText{
+    display: inline;
+    font-size: 10px;
+    margin: 0 auto;
+    /* margin-left: 50px; */
+}

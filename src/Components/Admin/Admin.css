@@ -1,0 +1,31 @@
+.product{
+    width: 300px;
+    height: 400px;
+    padding: 10px;
+    margin: 10px;
+    display: flex;
+    margin: 0 auto;
+}
+.imgStyle{
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+}
+/* style={{ display: 'inline', color: 'cyan' }} */
+.pdPrice{
+    margin-top: 30px;
+    display: inline;
+    margin-right: 10px;
+}
+/*   const linkStyle = {
+        color: 'black',
+        textDecoration: 'none'
+    } */
+.btnStyle{
+    color: black;
+}
+.btnStyle:hover{
+    text-decoration: none;
+    cursor: pointer;
+    color: cyan;
+}
